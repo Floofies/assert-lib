@@ -1,0 +1,18 @@
+{
+	"name": "assert-lib",
+	"description": "A handy little assertion function library. Includes pre-made type checking assertions.",
+	"version": "1.0.0",
+	"author": "Dani Glore (https://github.com/Floofies)",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Floofies/assert-lib.git"
+	},
+	"main": "index.js",
+	"keywords": [
+		"assert",
+		"aserts",
+		"assertion",
+		"library",
+		"typecheck",
+	]
+}
